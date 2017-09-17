@@ -7,8 +7,8 @@
 
 <body>
 <?php
-	$name ="Badhon"
-		$echo "name"
+	$name = 10 + 11;
+	echo $name
 	?>
 </body>
 </html>
