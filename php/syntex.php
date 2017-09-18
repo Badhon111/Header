@@ -15,7 +15,7 @@
 		<?php
 	$name="ashikur";
 	echo $name
-		strlen "$name"
+	
 	?>
 </body>
 
