@@ -2,7 +2,7 @@
 <html>
 	<head>
 	<meta charset="utf-8">
-	<title>Untitled Document</title>
+	<title>Php by Badhon</title>
 	</head>
 
 <body>
@@ -11,6 +11,12 @@
 	$b = 1;
 		echo $a + $b;
 		?>
+		
+		<?php
+	$name="ashikur";
+	echo $name
+		strlen "$name"
+	?>
 </body>
 
 </html>

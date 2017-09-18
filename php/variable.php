@@ -6,5 +6,15 @@
 </head>
 
 <body>
+	<?php
+	
+	/* variable using */
+	
+	$a = 'badhon';
+	$b = 'rani';
+			echo $a + $b;
+				
+	
+		?>
 </body>
 </html>
