@@ -1,34 +1,11 @@
 <!doctype html>
 <html>
 	<head>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
 	<meta charset="utf-8">
 		
 		<title> " php pactice " </title>
-		
-		
-		<style>
-			.body {
-				
-				background-color: #4D3C3D;
-				width: auto;
-				text-align: center;
-				font-size: 30px;
-				color: white;
-			}
-			.php-style {
-				width: auto;
-				height: 200px;
-				font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-				background-color: black;
-				font-size: 40px;
-				padding: inherit;
-				color: white;
-				text-align: center;
-				
-				
-			}
-		
-		</style>
+
 	</head>
 	
 	<body class="body">
@@ -70,6 +47,8 @@
 	
 </html>
 
+<?php /*?>3d array using of php variable output system's<?php */?>
+
 
 <?php
 /* 3d array using of php variable output system's */
@@ -81,5 +60,5 @@
 		array(7, 8, 9)
 	);
 	/* 3d array using of php variable output system's */
-	echo $arr[2][0];
+	echo $arr[0][0];
 ?>

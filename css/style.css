@@ -10,3 +10,24 @@
 	padding: 50px;
 	width: auto;
 }
+.body {
+				
+				background-color: #4D3C3D;
+				width: auto;
+				text-align: center;
+				font-size: 30px;
+				color: white;
+			}
+			.php-style {
+				width: auto;
+				height: 200px;
+				font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+				background-color: black;
+				font-size: 40px;
+				padding: inherit;
+				color: white;
+				text-align: center;
+				
+				
+			}
+		
